@@ -1,7 +1,7 @@
 Integrantes:
 -Tomás Núñez Montagna integrante 1 (NRC: 8062)
 -Bastián Ibañez Martínez integrante 2 (NRC: 8062)
-
+-Carlos Vásquez Bravo (NRC: 8062)
 Nombre del Juego: Sudoku
 Link: https://sudoku.com/es/experto/
 
